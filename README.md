@@ -91,9 +91,6 @@ Este proyecto es una base para desarrollar vehículos controlados por IoT. Se pu
 
 ---
 
-
-## 🚀 Contributing
-
 1. [Fork](https://github.com/aarturodev/Car-IoT/fork) the repository.
    
 
